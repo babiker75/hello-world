@@ -1,2 +1,4 @@
 # hello-world
-This is my first repository for learning purpose. 
+write the press realese 
+update the web site 
+define the date 
